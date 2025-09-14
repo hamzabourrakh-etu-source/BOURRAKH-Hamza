@@ -7,7 +7,7 @@
 # 👋 Hi, I’m **Hamza Bourrakh**
 
 🎓 MSc Candidate in **Marine Environment & Bio-Resources Management**  
-🌊 Passionate about **Marine Biology, Biostatistics & Environmental Conservation**  
+🌊 Passionate about **Bioinformatics, Biostatistics, Marine Biology & Environmental Conservation**  
 📍 Based in **Casablanca, Morocco**  
 
 [![Linkedin Badge](https://img.shields.io/badge/-Hamza%20Bourrakh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bourrakh-hamza/) 
