@@ -27,15 +27,18 @@
 
 ## 🛠️ Tools & Skills  
 
+![Bioinformatics](https://img.shields.io/badge/bioinformatics-yellow?style=flat)
+![Docking](https://img.shields.io/badge/Docking-green?style=flat)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
+![GraphPad](https://img.shields.io/badge/GraphPad_Prism-3776AB?style=flat)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![GraphPad](https://img.shields.io/badge/GraphPad_Prism-3776AB?style=flat)
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-green?style=flat)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
+![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 
 ```dart
 // Organized Skills
